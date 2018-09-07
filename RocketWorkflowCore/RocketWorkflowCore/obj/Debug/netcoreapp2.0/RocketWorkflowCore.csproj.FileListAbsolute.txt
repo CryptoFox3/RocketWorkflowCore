@@ -1,0 +1,8 @@
+C:\Users\pghod\Desktop\DevCodeCamp\Capstone\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\bin\Debug\netcoreapp2.0\RocketWorkflowCore.deps.json
+C:\Users\pghod\Desktop\DevCodeCamp\Capstone\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\bin\Debug\netcoreapp2.0\RocketWorkflowCore.runtimeconfig.json
+C:\Users\pghod\Desktop\DevCodeCamp\Capstone\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\bin\Debug\netcoreapp2.0\RocketWorkflowCore.runtimeconfig.dev.json
+C:\Users\pghod\Desktop\DevCodeCamp\Capstone\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\bin\Debug\netcoreapp2.0\RocketWorkflowCore.dll
+C:\Users\pghod\Desktop\DevCodeCamp\Capstone\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\obj\Debug\netcoreapp2.0\RocketWorkflowCore.csprojAssemblyReference.cache
+C:\Users\pghod\Desktop\DevCodeCamp\Capstone\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\obj\Debug\netcoreapp2.0\RocketWorkflowCore.csproj.CoreCompileInputs.cache
+C:\Users\pghod\Desktop\DevCodeCamp\Capstone\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\obj\Debug\netcoreapp2.0\RocketWorkflowCore.AssemblyInfoInputs.cache
+C:\Users\pghod\Desktop\DevCodeCamp\Capstone\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\RocketWorkflowCore\obj\Debug\netcoreapp2.0\RocketWorkflowCore.AssemblyInfo.cs
